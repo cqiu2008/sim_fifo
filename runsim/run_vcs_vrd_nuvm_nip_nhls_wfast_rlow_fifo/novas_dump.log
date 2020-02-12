@@ -1,0 +1,388 @@
+ANF: vcsd_register_1st_RTL_rfn('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vcsd_register_1st_RTL_rfn')
+ANF: vcsd_register_1st_sequential_rfn('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vcsd_register_1st_sequential_rfn')
+ANF: vcsd_register_2nd_RTL_rfn('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vcsd_register_2nd_RTL_rfn')
+ANF: vcsd_register_2nd_sequential_rfn('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vcsd_register_2nd_sequential_rfn')
+ANF: scsd_xprop_is_enabled('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: scsd_xprop_is_enabled')
+ANF: scsd_xprop_sig_is_promoted('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: scsd_xprop_sig_is_promoted')
+ANF: scsd_xprop_int_xvalue('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: scsd_xprop_int_xvalue')
+ANF: scsd_xprop_bool_xvalue('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: scsd_xprop_bool_xvalue')
+ANF: scsd_xprop_enum_xvalue('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: scsd_xprop_enum_xvalue')
+ANF: scsd_xprop_register_merge_mode_cb('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: scsd_xprop_register_merge_mode_cb')
+ANF: scsd_xprop_delete_merge_mode_cb('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: scsd_xprop_delete_merge_mode_cb')
+ANF: scsd_xprop_get_merge_mode('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: scsd_xprop_get_merge_mode')
+ANF: msvEnableDumpingMode('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvEnableDumpingMode')
+ANF: msvGetVersion('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvGetVersion')
+ANF: msvGetInstProp('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvGetInstProp')
+ANF: msvIsSpiceEngineReady('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvIsSpiceEngineReady')
+ANF: msvSetAddProbeCallback('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvSetAddProbeCallback')
+ANF: msvGetInstHandle('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvGetInstHandle')
+ANF: msvGetProbeByInst('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvGetProbeByInst')
+ANF: msvGetSigHandle('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvGetSigHandle')
+ANF: msvGetProbeBySig('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvGetProbeBySig')
+ANF: msvGetProbeInfo('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvGetProbeInfo')
+ANF: msvRelease('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvRelease')
+ANF: msvSetVcCallbackFunc('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvSetVcCallbackFunc')
+ANF: msvCheckVcCallback('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvCheckVcCallback')
+ANF: msvAddVcCallback('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvAddVcCallback')
+ANF: msvRemoveVcCallback('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvRemoveVcCallback')
+ANF: msvGetLatestValue('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvGetLatestValue')
+ANF: msvSetEndofSimCallback('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvSetEndofSimCallback')
+ANF: msvIgnoredProbe('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvIgnoredProbe')
+ANF: msvGetThruNetInfo('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvGetThruNetInfo')
+ANF: msvFreeThruNetInfo('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvFreeThruNetInfo')
+ANF: PI_ace_get_output_time_unit('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: PI_ace_get_output_time_unit')
+ANF: PI_ace_sim_sync('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: PI_ace_sim_sync')
+ANF: msvGetRereadInitFile('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvGetRereadInitFile')
+ANF: msvSetBeforeRereadCallback('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvSetBeforeRereadCallback')
+ANF: msvSetAfterRereadCallback('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvSetAfterRereadCallback')
+ANF: msvSetForceCallback('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvSetForceCallback')
+ANF: msvSetReleaseCallback('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvSetReleaseCallback')
+ANF: msvGetForceStatus('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: msvGetForceStatus')
+ANF: vhdi_dt_get_type('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_dt_get_type')
+ANF: vhdi_dt_get_key('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_dt_get_key')
+ANF: vhdi_dt_get_vhdl_enum_info('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_dt_get_vhdl_enum_info')
+ANF: vhdi_dt_get_vhdl_physical_info('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_dt_get_vhdl_physical_info')
+ANF: vhdi_dt_get_vhdl_array_info('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_dt_get_vhdl_array_info')
+ANF: vhdi_dt_get_vhdl_record_info('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_dt_get_vhdl_record_info')
+ANF: vhdi_def_traverse_module('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_def_traverse_module')
+ANF: vhdi_def_traverse_scope('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_def_traverse_scope')
+ANF: vhdi_def_traverse_variable('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_def_traverse_variable')
+ANF: vhdi_def_get_module_id_by_vhpi('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_def_get_module_id_by_vhpi')
+ANF: vhdi_def_get_handle_by_module_id('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_def_get_handle_by_module_id')
+ANF: vhdi_def_free('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_def_free')
+ANF: vhdi_ist_traverse_scope('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_ist_traverse_scope')
+ANF: vhdi_ist_traverse_variable('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_ist_traverse_variable')
+ANF: vhdi_ist_convert_by_vhpi('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_ist_convert_by_vhpi')
+ANF: vhdi_ist_clone('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_ist_clone')
+ANF: vhdi_ist_free('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_ist_free')
+ANF: vhdi_ist_hash_key('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_ist_hash_key')
+ANF: vhdi_ist_compare('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_ist_compare')
+ANF: vhdi_ist_get_value_addr('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_ist_get_value_addr')
+ANF: vhdi_set_scsd_callback('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_set_scsd_callback')
+ANF: vhdi_ist_check_scsd_callback('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_ist_check_scsd_callback')
+ANF: vhdi_ist_add_scsd_callback('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_ist_add_scsd_callback')
+ANF: vhdi_ist_remove_scsd_callback('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_ist_remove_scsd_callback')
+ANF: vhdi_ist_get_scsd_user_data('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_ist_get_scsd_user_data')
+ANF: vhdi_add_time_change_callback('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_add_time_change_callback')
+ANF: vhdi_get_real_value_by_value_addr('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_get_real_value_by_value_addr')
+ANF: vhdi_get_64_value_by_value_addr('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_get_64_value_by_value_addr')
+ANF: vhdi_xprop_inst_is_promoted('/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv: undefined symbol: vhdi_xprop_inst_is_promoted')
+VCS compile option:
+ option[0]: /home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv
+ option[1]: -l
+ option[2]: run.log
+ option[3]: -assert
+ option[4]: filter+success
+ option[5]: -assert
+ option[6]: maxsuccess=3
+ option[7]: /opt/tool/synopsys/vcs_mx_vl201606/linux64/bin/vcs1
+ option[8]: -Mcc=gcc-4.8
+ option[9]: -Mcplusplus=g++-4.8
+ option[10]: -Masflags=
+ option[11]: -Mcfl= -pipe -fPIC -O -I/opt/tool/synopsys/vcs_mx_vl201606/include 
+ option[12]: -Mxcflags= -pipe -fPIC -I/opt/tool/synopsys/vcs_mx_vl201606/include
+ option[13]: -Mldflags= -Wl,--no-as-needed -rdynamic 
+ option[14]: -Mout=simv
+ option[15]: -Mamsrun=
+ option[16]: -Mvcsaceobjs=
+ option[17]: -Mobjects= /opt/tool/synopsys/vcs_mx_vl201606/linux64/lib/libvirsim.so /opt/tool/synopsys/vcs_mx_vl201606/linux64/lib/liberrorinf.so /opt/tool/synopsys/vcs_mx_vl201606/linux64/lib/libsnpsmalloc.so /opt/tool/synopsys/verdi_vL_2016_06_1/share/PLI/VCS/LINUXAMD64/pli.a 
+ option[18]: -Mexternalobj=
+ option[19]: -Msaverestoreobj=/opt/tool/synopsys/vcs_mx_vl201606/linux64/lib/vcs_save_restore_new.o
+ option[20]: -Mcrt0=
+ option[21]: -Mcrtn=
+ option[22]: -Mcsrc=
+ option[23]: -Msyslibs=/opt/tool/synopsys/verdi_vL_2016_06_1/share/PLI/VCS/LINUX64/pli.a -ldl -lm 
+ option[24]: -full64
+ option[25]: 
+ option[26]: 
+ option[27]: -debug_access+all
+ option[28]: +vpi
+ option[29]: +vcsd1
+ option[30]: +itf+/opt/tool/synopsys/vcs_mx_vl201606/linux64/lib/vcsdp_lite.tab
+ option[31]: +define+ASSERT_ON+CONVER_ON
+ option[32]: +define+ASSERT_ON+CONVER_ON
+ option[33]: -debug_access+all+dmptf+bc
+ option[34]: -debug_region=cell+lib
+ option[35]: -Xpiyushb1=0x80
+ option[36]: -P
+ option[37]: /opt/tool/synopsys/verdi_vL_2016_06_1/share/PLI/VCS/LINUXAMD64/novas.tab
+ option[38]: -picarchive
+ option[39]: -P
+ option[40]: /opt/tool/synopsys/verdi_vL_2016_06_1/share/PLI/VCS/LINUX64/verdi.tab
+ option[41]: -fsdb
+ option[42]: -sverilog
+ option[43]: -gen_obj
+ option[44]: +incdir+/home/cqiu/work/prj/sim_prj/sim_fifo/tb
+ option[45]: +incdir+/home/cqiu/work/prj/sim_prj/sim_fifo/tb/btc/vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo
+ option[46]: +incdir+/opt/tool/synopsys/vcs_mx_vl201606/packages/sva
+ option[47]: /home/cqiu/work/prj/sim_prj/sim_fifo/rtl/asyn_fifo.v
+ option[48]: /home/cqiu/work/prj/sim_prj/sim_fifo/tb/btc/vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/beh_fifo.v
+ option[49]: /home/cqiu/work/prj/sim_prj/sim_fifo/tb/btc/vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/tb_dut_top.sv
+ option[50]: -load
+ option[51]: /opt/tool/synopsys/verdi_vL_2016_06_1/share/PLI/VCS/LINUX64/libnovas.so:FSDBDumpCmd
+Chronologic Simulation VCS Release L-2016.06_Full64
+Linux 4.8.0-36-generic #36~16.04.1-Ubuntu SMP Sun Feb 5 09:39:57 UTC 2017 x86_64
+CPU cores: 4
+Limit information:
+======================================
+cputime			unlimited
+filesize		unlimited
+datasize		unlimited
+stacksize		8192 kbytes
+coredumpsize	0 kbytes
+memoryuse		unlimited
+vmemoryuse		unlimited
+descriptors		1048576
+memorylocked	64 kbytes
+maxproc			47606
+======================================
+(Special)Runtime environment variables:
+
+Runtime environment variables:
+AUTOJUMP_ERROR_PATH=/home/cqiu/.local/share/autojump/errors.log
+XDG_VTNR=7
+PAR_UVM_TYPE=nuvm
+PAR_OTHER_TYPE=nhls
+ORBIT_SOCKETDIR=/tmp/orbit-cqiu
+LICENSE_HOME=/home/cqiu/work/tool/stool/linux/all_license_file_lenovo
+XDG_SESSION_ID=c2
+IBUS_DISABLE_SNOOPER=1
+VVD1602_LIBRARY_PATH=
+XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/cqiu
+CLUTTER_IM_MODULE=xim
+TERMINATOR_UUID=urn:uuid:4541b50d-8a11-4b89-b63c-8a40641f359b
+UVM_HOME=/opt/tool/mentor/questasim10_4c/questasim/verilog_src/uvm-1.1d
+NOVAS_HOME=/opt/tool/synopsys/verdi_vL_2016_06_1
+GPG_AGENT_INFO=/home/cqiu/.gnupg/S.gpg-agent:0:1
+AUTOJUMP_SOURCED=1
+LIBPLI_ROOT=/home/cqiu/work/prj/sim_prj/sim_fifo/vf/libpli
+TERM=xterm
+ARM_DS5_LIEFILE=armDs5License.dat
+SHELL=/usr/bin/zsh
+MAKEFLAGS=w -- PAR_TC=vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo PAR_SIM_TYPE=vcs PAR_WAVE_TYPE=vrd PAR_UVM_TYPE=nuvm PAR_IP_TYPE=nip PAR_OTHER_TYPE=nhls PAR_SUB_MAKEFILE=Makefile.vcs.vrd.nuvm.nip.nhls
+IK_SIMULATOR=VCS
+GCC_EMBEED_HOME=/home/cqiu/work/tool/stool/linux/edaTool/gccTool/arm2014_05/arm-2014.05
+QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+Verdi=vrd 
+VVD1703_LIBRARY_PATH=
+WINDOWID=20971524
+VF_ROOT=/home/cqiu/work/prj/sim_prj/sim_fifo/vf
+UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1000/1298
+GNOME_KEYRING_CONTROL=
+DSM_CORTEXA7_VERSION=CORTEXA7_unlicensed_r0p5-00rel0
+IP_PRJ=ip_prj
+GTK_MODULES=gail:atk-bridge:unity-gtk-module
+SWT_GTK3=0
+IK_PLATFORM_64=TRUE
+ZSH=/home/cqiu/.oh-my-zsh
+USER=cqiu
+MAKEOVERRIDES=${-*-command-variables-*-}
+QT_ACCESSIBILITY=1
+LD_LIBRARY_PATH=/opt/tool/synopsys/verdi_vL_2016_06_1/share/PLI/VCS/LINUX64
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=40;36:st=40;36:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+VCS_LICFILE=synopsysLenovo1c394728cd36.dat
+PRJ_ROOT=/home/cqiu/work/prj/sim_prj/sim_fifo
+MACRO_RTL_FILE=/home/cqiu/work/prj/sim_prj/sim_fifo/rtl/macro_rtl
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+RTL_ROOT=/home/cqiu/work/prj/sim_prj/sim_fifo/rtl
+MAKE_TERMOUT=/dev/pts/24
+IK_OS=Linux
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+VVD_DATA=/opt/tool/xilinx/vivado2018_03/Vivado/2018.3/data
+VVD_ROOT=/opt/tool/xilinx/vivado2018_03/Vivado/2018.3
+MAKEFILE_CMPL=Makefile.cmpl.vvd
+MAKELEVEL=4
+DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+BTC_ROOT=/home/cqiu/work/prj/sim_prj/sim_fifo/tb/btc
+PAGER=less
+A7_TOOL=/media/cqiu/d/work/prj/cortexA7/code/cortexa7/logical/cortexa7_intkit/validation/tools
+MFLAGS=-w
+ARMLMD_LICENSE_FILE=37000@cqiuLenovo
+VVD_BIN=/opt/tool/xilinx/vivado2018_03/Vivado/2018.3/bin
+LSCOLORS=Gxfxcxdxbxegedabagacad
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+SCRIPTLIN_ROOT=/home/cqiu/work/prj/sim_prj/sim_fifo/vf/scriptlin
+NOVAS_RC=/novas.rc
+PATH=/home/cqiu/.autojump/bin:/home/cqiu/bin:/home/cqiu/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/tool/mentor/questasim10_4c/questasim/linux_x86_64:/opt/tool/synopsys/verdi_vL_2016_06_1/bin:/opt/tool/synopsys/verdi_vL_2016_06_1/platform/LINUX/bin:/opt/tool/synopsys/vcs_mx_vl201606/gui/dve/bin:/opt/tool/synopsys/vcs_mx_vl201606/bin:/opt/tool/arm/ds5v14build1702/bin:/home/cqiu/work/tool/stool/linux/edaTool/gccTool/arm2014_05/arm-2014.05/bin:/home/cqiu/work/tool/stool/linux/edaTool/nanoPiTool/gcc-linaro-6.3.1-2017.02-x86_64_aarch64-linux-gnu/bin:#/bin:#/bin:/media/cqiu/d/work/prj/cortexA7/code/cortexa7/logical/cortexa7_intkit/validation/tools:/home/cqiu/.local/share/umake/ide/visual-studio-code:/opt/tool/synopsys/scl11_9/amd64/bin:/home/cqiu/work/tool/stool/linux/scriptTool
+DESKTOP_SESSION=ubuntu
+A7_HOME=/media/cqiu/d/work/prj/cortexA7/code/cortexa7
+QT_IM_MODULE=fcitx
+QT_QPA_PLATFORMTHEME=appmenu-qt5
+VVD1604_BIN=/opt/tool/xilinx/vivado2016_04/Vivado/2016.4/bin
+ARM_DS5_HOME=/opt/tool/arm/ds5v14build1702
+VERDI_HOME=/opt/tool/synopsys/verdi_vL_2016_06_1
+SIM_LIBRARY_PATH=
+XDG_SESSION_TYPE=x11
+SCRIPT_HOME=/home/cqiu/work/tool/stool/linux/scriptTool
+PWD=/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo
+JOB=gnome-session
+VCS_HOME=/opt/tool/synopsys/vcs_mx_vl201606
+PAR_WAVE_TYPE=vrd
+MAKEFILE_SCRIPT=/home/cqiu/work/prj/sim_prj/sim_fifo/vf/scriptlin/makefile_script
+XMODIFIERS=@im=fcitx
+PAR_TC=vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo
+LANG=zh_CN.UTF-8
+GNOME_KEYRING_PID=
+PAR_SUB_MAKEFILE=Makefile.vcs.vrd.nuvm.nip.nhls
+MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+GDM_LANG=zh_CN
+VCS_ARCH_OVERRIDE=linux
+COMPIZ_CONFIG_PROFILE=ubuntu
+IM_CONFIG_PHASE=1
+PLATFORM=LINUX64
+IK_MODEL_SRC=RTL
+NANO_PI_HOME=/home/cqiu/work/tool/stool/linux/edaTool/nanoPiTool/gcc-linaro-6.3.1-2017.02-x86_64_aarch64-linux-gnu
+XILINX_VIVADO=/
+LM_LICENSE_FILE=27000@cqiuLenovo:37000@cqiuLenovo
+PAR_IP_TYPE=nip
+GDMSESSION=ubuntu
+FLIST_SCRIPT=/home/cqiu/work/prj/sim_prj/sim_fifo/vf/scriptlin/flist_script
+CS_TOOLS_HOME=/media/cqiu/d/work/prj/cortexA7/code/cortexa7/logical/cortexa7_intkit/validation/tools
+GTK2_MODULES=overlay-scrollbar
+VVD1604_ROOT=/opt/tool/xilinx/vivado2016_04/Vivado/2016.4
+SESSIONTYPE=gnome-session
+UTC_ROOT=/home/cqiu/work/prj/sim_prj/sim_fifo/tb/utc
+SHLVL=5
+XDG_SEAT=seat0
+HOME=/home/cqiu
+LANGUAGE=zh_CN:
+NOVAS_ROOT=/home/cqiu/work/prj/sim_prj/sim_fifo/vf/novas
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+MSIM_LICFILE=simLenvolicense1C-39-47-28-CD-36.dat
+UPSTART_INSTANCE=
+TB_ROOT=/home/cqiu/work/prj/sim_prj/sim_fifo/tb
+LESS=-R
+UPSTART_EVENTS=started starting
+LOGNAME=cqiu
+XDG_SESSION_DESKTOP=ubuntu
+RUNSIM_ROOT=/home/cqiu/work/prj/sim_prj/sim_fifo/runsim
+MAKE_TERMERR=/dev/pts/24
+VVD1604_DATA=/opt/tool/xilinx/vivado2016_04/Vivado/2016.4/data
+QT4_IM_MODULE=fcitx
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-kWNu4DJfi1
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/var/lib/snapd/desktop
+SCL_HOME=/opt/tool/synopsys/scl11_9
+INSTANCE=Unity
+UPSTART_JOB=unity-settings-daemon
+DSM_PATH=path_to_DSM
+DISPLAY=:0
+XDG_RUNTIME_DIR=/run/user/1000
+PERL_SCRIPT=/home/cqiu/work/prj/sim_prj/sim_fifo/vf/scriptlin/perl_script
+MG_LIB=/media/cqiu/d/work/prj/cortexA7/code/cortexa7/logical/cortexa7_intkit/verilog/armBST/ModelManager/Linux_64/MM
+VSCODE_HOME=/home/cqiu/.local/share/umake/ide/visual-studio-code
+PAR_SIM_TYPE=vcs
+XDG_CURRENT_DESKTOP=Unity
+GTK_IM_MODULE=fcitx
+WEB_ROOT=/home/cqiu/work/prj/sim_prj/sim_fifo/vf/gui/tornadoWeb
+VVD_SCRIPT=/home/cqiu/work/prj/sim_prj/sim_fifo/vf/scriptlin/vivado_script
+QUESTA_HOME=/opt/tool/mentor/questasim10_4c/questasim
+COLORTERM=gnome-terminal
+XAUTHORITY=/home/cqiu/.Xauthority
+_=/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv
+VCS_PATHMAP_PRELOAD_DONE=1
+LC_ALL=C
+DVE=/opt/tool/synopsys/vcs_mx_vl201606/gui/dve
+SPECMAN_OUTPUT_TO_TTY=1
+Runtime command line arguments:
+argv[0]=/home/cqiu/work/prj/sim_prj/sim_fifo/runsim/run_vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/simv
+argv[1]=-l
+argv[2]=run.log
+argv[3]=-assert
+argv[4]=filter+success
+argv[5]=-assert
+argv[6]=maxsuccess=3
+294 profile - 100
+          CPU/Mem usage: 0.010 sys,  0.210 user,  224.69M sys,  0.00M vm
+295 VC callback profile - scalar:0 vector:0
+296 Thu Feb  6 17:27:22 2020
+297 pliAppInit
+298 *Verdi3* : FSDB_GATE is set.
+299 *Verdi3* : FSDB_RTL is set.
+300 *Verdi3* : Enable Parallel Dumping.
+301 pliAppMiscSet: New Sim Round
+302 pliEntryInit
+303 LIBSSCORE=found /opt/tool/synopsys/verdi_vL_2016_06_1/share/PLI/lib/LINUXAMD64/libsscore_vcs201606.so through $NOVAS_HOME setting.
+304 FSDB Dumper for VCS, Release Verdi3_L-2016.06-1, Linux x86_64/64bit, 07/10/2016
+305 (C) 1996 - 2016 by Synopsys, Inc.
+306 sps_call_fsdbDumpvars at 0 : /home/cqiu/work/prj/sim_prj/sim_fifo/tb/btc/vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/tb_dut_top.sv(190)
+307 argv[0]: +fsdbfile+tb_dut_top.fsdb
+308 *Verdi3* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+309 *Verdi3* : Create FSDB file 'tb_dut_top.fsdb'
+310 *Verdi3* : Begin traversing the scopes, layer (0).
+311 *Verdi3* : End of traversing.
+312 fsdbDumpvars traverse var: profile - 
+          CPU/Mem usage: 0.010 sys,  0.210 user,  310.69M sys,  0.00M vm
+                   incr: 0.000 sys,  0.000 user,  8.86M sys,  0.00M vm
+                   accu: 0.000 sys,  0.000 user,  8.86M sys,  0.00M vm
+              accu incr: 0.000 sys,  0.000 user,  8.86M sys,  0.00M vm
+
+          Count usage: 67 var,  65 idcode,  40 callback
+                 incr: 67 var,  65 idcode,  40 callback
+                 accu: 67 var,  65 idcode,  40 callback
+            accu incr: 67 var,  65 idcode,  40 callback
+313 VC callback profile - scalar:0 vector:0
+314 Thu Feb  6 17:27:22 2020
+315 fsdbDumpvars: profile - 
+          CPU/Mem usage: 0.010 sys,  0.210 user,  311.88M sys,  0.00M vm
+                   incr: 0.000 sys,  0.000 user,  1.19M sys,  0.00M vm
+                   accu: 0.000 sys,  0.000 user,  10.05M sys,  0.00M vm
+              accu incr: 0.000 sys,  0.000 user,  1.19M sys,  0.00M vm
+
+          Count usage: 67 var,  65 idcode,  40 callback
+                 incr: 0 var,  0 idcode,  0 callback
+                 accu: 67 var,  65 idcode,  40 callback
+            accu incr: 0 var,  0 idcode,  0 callback
+316 VC callback profile - scalar:15 vector:25
+317 Thu Feb  6 17:27:22 2020
+318 sps_call_fsdbDumpMDA at 0 : /home/cqiu/work/prj/sim_prj/sim_fifo/tb/btc/vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/tb_dut_top.sv(191)
+319 argv[0]: (handle)0x3079178 tb_dut_top.u0_asyn_fifo.mem
+320 argv[1]: 0
+321 argv[2]: 8
+322 *Verdi3* : Dumping the MDA (tb_dut_top.u0_asyn_fifo.mem).
+323 fsdbDumpMDA traverse var: profile - 
+          CPU/Mem usage: 0.020 sys,  0.210 user,  311.91M sys,  0.00M vm
+                   incr: 0.010 sys,  0.000 user,  0.04M sys,  0.00M vm
+                   accu: 0.010 sys,  0.000 user,  0.04M sys,  0.00M vm
+              accu incr: 0.010 sys,  0.000 user,  0.04M sys,  0.00M vm
+
+          Count usage: 75 var,  73 idcode,  41 callback
+                 incr: 8 var,  8 idcode,  1 callback
+                 accu: 8 var,  8 idcode,  1 callback
+            accu incr: 8 var,  8 idcode,  1 callback
+324 VC callback profile - scalar:15 vector:25
+325 Thu Feb  6 17:27:22 2020
+326 fsdbDumpMDA: profile - 
+          CPU/Mem usage: 0.020 sys,  0.210 user,  311.91M sys,  0.00M vm
+                   incr: 0.000 sys,  0.000 user,  0.00M sys,  0.00M vm
+                   accu: 0.010 sys,  0.000 user,  0.04M sys,  0.00M vm
+              accu incr: 0.000 sys,  0.000 user,  0.00M sys,  0.00M vm
+
+          Count usage: 75 var,  73 idcode,  41 callback
+                 incr: 0 var,  0 idcode,  0 callback
+                 accu: 8 var,  8 idcode,  1 callback
+            accu incr: 0 var,  0 idcode,  0 callback
+327 VC callback profile - scalar:15 vector:33
+328 Thu Feb  6 17:27:22 2020
+329 sps_call_fsdbDumpSVA at 0 : /home/cqiu/work/prj/sim_prj/sim_fifo/tb/btc/vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/tb_dut_top.sv(192)
+330 *Verdi3* : Begin traversing the SVA assertions, layer (0).
+331 *Verdi3* : End of traversing the SVA assertions.
+332 fsdbDumpSVA: profile - 
+          CPU/Mem usage: 0.020 sys,  0.210 user,  311.93M sys,  0.00M vm
+                   incr: 0.000 sys,  0.000 user,  0.01M sys,  0.00M vm
+                   accu: 0.000 sys,  0.000 user,  0.01M sys,  0.00M vm
+              accu incr: 0.000 sys,  0.000 user,  0.01M sys,  0.00M vm
+
+          Count usage: 76 var,  74 idcode,  41 callback
+                 incr: 1 var,  1 idcode,  0 callback
+                 accu: 1 var,  1 idcode,  0 callback
+            accu incr: 1 var,  1 idcode,  0 callback
+333 VC callback profile - scalar:15 vector:33
+334 Thu Feb  6 17:27:22 2020
+335 End of simulation at 10595
+336 VC callback profile - scalar:3783 vector:4183
+337 Thu Feb  6 17:27:22 2020
+338 Parallel profile    -  Flush:4 Expand:0 ProduceWait:0 ConsumerWait:0 BlockUsed:0
+339                        ProduceTime:0.242096821 ConsumerTime:0.000000000 Buffer:64MB
+340 SimExit
+341 Sim process exit
