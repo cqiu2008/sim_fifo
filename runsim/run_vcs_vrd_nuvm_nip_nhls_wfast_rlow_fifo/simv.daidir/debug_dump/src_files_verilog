@@ -1,6 +1,0 @@
-/home/cqiu/work/prj/sim_prj/sim_fifo/rtl/asyn_fifo.v
-/home/cqiu/work/prj/sim_prj/sim_fifo/tb/btc/vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/beh_fifo.v
-/home/cqiu/work/prj/sim_prj/sim_fifo/tb/btc/vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/rclk_and_rrst_tsk.svh
-/home/cqiu/work/prj/sim_prj/sim_fifo/tb/btc/vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/tb_dut_top.sv
-/home/cqiu/work/prj/sim_prj/sim_fifo/tb/btc/vcs_vrd_nuvm_nip_nhls_wfast_rlow_fifo/wclk_and_wrst_tsk.svh
-/home/cqiu/work/prj/sim_prj/sim_fifo/tb/sva/sva_check_result.sv
