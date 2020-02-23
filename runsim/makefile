@@ -1,1 +1,1 @@
-/home/cqiu/work/prj/sim_prj/sim_core/runsim/makefile
+/home/cqiu/work/prj/simPrj/sim_core/runsim/makefile
